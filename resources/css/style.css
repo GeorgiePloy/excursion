@@ -7,15 +7,20 @@ h1 {
   color: white;
   font-size: 50px;
 }
-h2{
+h2 {
+  color: white;
   font-weight: 300;
   font-size: 42px;
 }
 h3 {
-  font-size: 21px;
   color: gray;
+  font-size: 21px;
 }
-h4 {
+.link {
   color: aquamarine;
   font-size: 16px;
+}
+h4 {
+  color: gray;
+  text-align: right;
 }
